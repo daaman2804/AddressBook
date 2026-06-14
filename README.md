@@ -39,7 +39,6 @@ This project was built to strengthen understanding of:
 - File Handling (File I/O)
 - String Manipulation
 - Data Validation
-- Dynamic Memory Concepts
 - CRUD Operations
 - Menu-Driven Application Design
 
